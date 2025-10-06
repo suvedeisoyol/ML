@@ -1,5 +1,7 @@
 # Insurance Price Predcition Model
 
-This was Group Project organized by MLDS club in Fall 2024. In this repostory, I included my work of Statistical Analysis, ETA, and Feature engineering as well as model performance illustration.
-Please visit file:
-Testing_model_on_Dataset2.ipynb
+During our Project for building webapp that calculates Insurance Pricing Model, I initiated using richer and more complex data set to improve performance of the dataset and challenge knowledge of our group members.
+
+We found 10x bigger dataset that has variety of variables, however, there were strong correlation between variables and we were satisfied with the improvement it brought to our models.
+
+We tested different ML models on both dataset and interestingly we found that Random Forest model performs better as the size of the sample size increased. Experimented with different feature engineering along with forward selection method
