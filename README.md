@@ -1,6 +1,8 @@
 # Insurance Price Prediction Model
 
-**Final Project – Web Application for Insurance Pricing**
+**Web Application for Insurance Pricing**
+
+My role was to find ways to imrpove the performace of ML models through finding qualified larger dataset and apply feature engineering
 
 This project explores machine learning approaches to predict insurance pricing based on customer and policy attributes. As part of our group initiative, we developed a web application that integrates predictive modeling with an interactive user interface.
 
